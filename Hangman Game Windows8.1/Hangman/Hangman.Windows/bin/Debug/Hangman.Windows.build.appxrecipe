@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-34PECHL</Machine>
+    <WindowsUser>Owner</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>51947dbd-ca22-4b87-88ca-d93cb3ffae77</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Owner</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\bin\Debug\Hangman.Windows.exe">
+      <PackagePath>Hangman.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\Assets\0.jpg">
+      <PackagePath>Assets\0.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\Assets\1.jpg">
+      <PackagePath>Assets\1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\Assets\10.jpg">
+      <PackagePath>Assets\10.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\Assets\2.jpg">
+      <PackagePath>Assets\2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\Assets\3.jpg">
+      <PackagePath>Assets\3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\Assets\4.jpg">
+      <PackagePath>Assets\4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\Assets\5.jpg">
+      <PackagePath>Assets\5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\Assets\6.jpg">
+      <PackagePath>Assets\6.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\Assets\7.jpg">
+      <PackagePath>Assets\7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\Assets\8.jpg">
+      <PackagePath>Assets\8.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\Assets\9.jpg">
+      <PackagePath>Assets\9.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\bin\Debug\Hangman.Windows.xr.xml">
+      <PackagePath>Hangman.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\Hangman\Hangman\Hangman.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
